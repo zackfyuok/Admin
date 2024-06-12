@@ -307,6 +307,71 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="FILM",IMC 
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_atv_small.png" group-title="FILM",ATV 
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29899
+
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://hometv.pw/logo/malaysia/boo.png" group-title="FILM",ASTRO BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="FILM" tvg-id="mycinema.id" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg",My Cinema 
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="FILM" tvg-id="mycinemaasia.id" tvg-logo="https://www.dens.tv/images/channel-logo/109.jpg",My Cinema Asia 
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="FILM" tvg-id="myfamily.id" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg",My Family Channel 
+https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png" tvg-id="WarnerTV.id" tvg-name="Warner TV" group-title="FILM",Warner TV 
+https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="Kix.hk" tvg-logo="https://static.mncnow.id/images/channel/4e370d15/3992_r32.jpg" group-title="10. Movies ID",KIX (Vision+)
+https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="FILM",ZEE BIOSKOP 
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="FILM", LOTUS MACAU 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://tv.burhansyam.com/api/o2.m3u8?ch=lotusmacau&t=666
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="FILM", XING KONG CHINA 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://tv.burhansyam.com/api/o2.m3u8?ch=xingkong&t=666
+
+#EXTINF:-1 group-title="FILM" tvg-id="mbc1.ae" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png",MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 group-title="FILM" tvg-id="mbc3.ae" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1 group-title="FILM" tvg-id="mbc4.ae" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 group-title="FILM" tvg-id="mbc5.ae" tvg-logo="https://iptv.urfan.web.id/logo/mbc.png",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.ibb.co/gdYvVdB/cm.png" group-title="FILM", CELESTIAL MOVIES 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -368,23 +433,219 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
+            =======KIDS=======
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ggv1ffLeDm0/maxresdefault.jpg" group-title="KIDS",My Little Pony
+https://mylittlepony.hendrikstar73.workers.dev/@littlepony|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://picfile-baidu.babybus.com/PageArea/BabyBusFile/20220720/b40431f453854883b90c1df7b31a688f.png" group-title="KIDS",Baby Bus Channel
+https://babybustv.hendrikstar73.workers.dev/@BabyBusID|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/SuperToons.jpg" group-title="KIDS",Supertoons
+https://anime.hendrikstar73.workers.dev/@supertoons|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/2560px-Natgeo_Kids_logo.svg.png" group-title="KIDS",Nat Geo Kids
+https://nationalgeographic.hendrikstar73.workers.dev/@NatGeo|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iXD3m6v_prSsAlecaSOVv9QJn_c=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/1284/diva-the-series-e596f4.jpg" group-title="KIDS",Diva The Series
+https://playback.hendrikstar73.workers.dev/@divatheseries.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9phQpX8/bing.jpg" group-title="KIDS",bing
+https://channel.hendrikstar73.workers.dev/@bing|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Robocar_Poli.png" group-title="KIDS",Robocar Poli
+https://channel.hendrikstar73.workers.dev/@robocarpoli|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spongebob/images/4/42/SpongeBob_SquarePants_logo.svg.png/revision/latest?cb=20150501212239" group-title="KIDS",Nickelodeon
+https://spongebob.hendrikstar73.workers.dev/channel/UCTJDdO9klWGpTekswnXreGQ|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob big bad bubble bass
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/5f8113df819d4126b9a44397b286d71a/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Food PBBFT! Truck/Upturn Girls
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/b761f13b7a944b92ba246e37bfe78337/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Say 'Awww!'/Patrick the Mailman
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/f5cbc5c8eb974953848b966f375b03ca/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Captain Pipsqueak/Plane to Sea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/f357b597b88144dc8d409c5b232a176e/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Abandon Twits/Wallhalla
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/a5d8d2e4e27348ccafcaec8f5f02e9fa/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob The Salty Sponge / Karen for Spot
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/bb163645478849d7bf76e31a496584a7/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Arbor Day Disarray / Ain't That the Tooth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/7fbc1c580be347398ed83a7733b508ca/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Ma and Pa's Big Hurrah / Yellow Pavement
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/3e33719cb79444bc9684e0abd7b61f42/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob The Flower Plot / SpongeBob on Parade
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/a49e3e89f3034f788e9119af108fdd6c/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Delivery to Monster Island / Ride Patrick Rid
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d35wqfkncytyhb.cloudfront.net/out/v1/1157c4bfaec7420087d40f5b97e30459/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjJlN2FkMzMtYWQ0My0zZmYyLWFhYjEtMGE4N2JhYmQ3MDg3
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/SpongeBob-SquarePants-logo.png" group-title="KIDS",SpongeBob Dopey Dick / Plankton and the Beanstalk
+https://d35wqfkncytyhb.cloudfront.net/out/v1/78979349df4c4f86ae8628861bf0950e/1dc7483e2bfd49f9b1c9be0a1ce00f8d/221912794f7f4c6bba0465f1f27e21f9/index.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="KIDS",Dunia Anak 
+https://cdnjkt4.transvision.co.id:1003/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" tvg-id="CartoonTV.id" tvg-name="Cartoon TV" group-title="KIDS",Cartoon TV    
+https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" tvg-id="CartoonTVPremium.id" tvg-name="Cartoon TV Premium" group-title="KIDS",Cartoon TV Premium   
+https://cdnjkt4.transvision.co.id:1003/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6856c3db2cc016d055f43ff37a5/20190906065952.png" tvg-id="Boomerang.id" tvg-name="Boomerang" group-title="KIDS",Boomerang 
+https://cdnjkt4.transvision.co.id:1003/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
+#EXTINF:-1 tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS",Boomerang ID
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/305
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/20190708050512.jpg" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="KIDS",Cartoon Network
+https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="KIDS",Animax
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/3
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",Aniplus
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/2
+
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",My Kidz
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/213
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluecartoonnetworkro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/R2JqbjY/bkids.png" group-title="KIDS", B KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/zn7bHNn/cbeebies.png" group-title="KIDS", CBEEBIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://testfunctionlive.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/fS35p6p/cinemachikids.png" group-title="KIDS", CINEMACHI KIDS 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd  
+
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co/xXxyBrv/dunianak.png" group-title="KIDS", DUNIA ANAK
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="KIDS", DISNEY CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e38726127ec742179722a9804f1f25b8:2067f01820febdf8f80a26ae8630f840
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GdQY7KX/disneyjr.png" group-title="KIDS", DISNEY JR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/Kxp5QMG/funplanet.png" group-title="KIDS" , FUN PLANET
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co/w7tbfWD/horee.png" group-title="KIDS" , HOREE!
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.ibb.co/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://testfunctionlive.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 
 
