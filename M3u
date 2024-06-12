@@ -259,6 +259,46 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+           ========BEIN ARAB======
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN002 BeIN Sport 1 HD.png" group-title="BEIN AR",BN002:BeIN Sport 1 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2140
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN003 BeIN Sport 2 HD.png" group-title="BEIN AR",BN003:BeIN Sport 2 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2139
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN004 BeIN Sport 3 HD.png" group-title="BEIN AR",BN004:BeIN Sport 3 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2138
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN005 BeIN Sport 4 HD.png" group-title="BEIN AR",BN005:BeIN Sport 4 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2137
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN006 BeIN Sport 5 HD.png" group-title="BEIN AR",BN006:BeIN Sport 5 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2136
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN007 BeIN Sport 6 HD.png" group-title="BEIN AR",BN007:BeIN Sport 6 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2135
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN008 BeIN Sport 7 HD.png" group-title="BEIN AR",BN008:BeIN Sport 7 HD
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2134
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN012:BeIN Sport ENG 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN012 BeIN Sport ENG 1.png" group-title="BEIN AR",BN012:BeIN Sport ENG 1
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2130
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN013:BeIN Sport ENG 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN013 BeIN Sport ENG 2.png" group-title="BEIN AR",BN013:BeIN Sport ENG 2
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2129
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:Bein Sports Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN022 Bein Sports Premium 1.png" group-title="BEIN AR",BN022:Bein Sports Premium 1
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2120
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:Bein Sports Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN023 Bein Sports Premium 2.png" group-title="BEIN AR",BN023:Bein Sports Premium 2
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2119
+
+#EXTINF:-1 tvg-id=" tvg-name="BN025:Bein Sports Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN025 Bein Sports Premium 3.png" group-title="BEIN AR",BN025:Bein Sports Premium 3
+http://abcnew.site:8880/3ca8013n03/asdf23e32/2117
+
+
+
           ========CUBMU=======
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
