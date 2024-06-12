@@ -343,7 +343,7 @@ https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF:-1 tvg-id="Kix.hk" tvg-logo="https://static.mncnow.id/images/channel/4e370d15/3992_r32.jpg" group-title="10. Movies ID",KIX (Vision+)
+#EXTINF:-1 tvg-id="Kix.hk" tvg-logo="https://static.mncnow.id/images/channel/4e370d15/3992_r32.jpg" group-title="FILM",KIX
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
