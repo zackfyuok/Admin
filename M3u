@@ -232,8 +232,20 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DTV Sp 2 (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",DTV Sp 2 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162374.m3u8
 
-#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title=COPA AMERICA 2024",T SPORTS
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="COPA AMERICA 2024",T SPORTS
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
+
+#EXTINF:-1 tvg-name="TUDN US" group-title="COPA AMERICA 2024",TUDN US
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/3283
+
+#EXTINF:-1 tvg-name="SpotTV 1 SD" group-title="COPA AMERICA 2024",SPORT TV 1
+http://dns.maxptv.net:2052/C383/121341/48
+
+#EXTINF:-1 tvg-name="SporTV 2 SD" group-title="COPA AMERICA 2024",SPORT TV 2
+http://dns.maxptv.net:2052/C383/121341/46
+
+#EXTINF:-1 tvg-name="SporTV 3 SD" group-title=COPA AMERICA 2024",SPORT TV 3
+http://dns.maxptv.net:2052/C383/121341/44
 
            =======GP EVENT====
 
