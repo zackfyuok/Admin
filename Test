@@ -68,7 +68,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="NASIONAL-HD", TRANS7
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="NASIONAL", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/300px-CNN_Indonesia_logo.svg.png" group-title="NASIONAL", CNN Indonesia
