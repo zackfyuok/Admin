@@ -327,7 +327,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-name="Film" tvg-logo="https://i.ibb.co.com/sJ26mkZ/cinemachi.png" group-title="MOVIES", CINEMACHI (vision)
+#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-name="Film" tvg-logo="https://i.ibb.co.com/sJ26mkZ/cinemachi.png" group-title="Film", CINEMACHI (vision)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
