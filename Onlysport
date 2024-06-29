@@ -57,19 +57,25 @@ http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558653
 #EXTINF:-1,PT: SPORT TV+ SD
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/604315
 
-#EXTINF:-1,IT: Sky Sport 251
+#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="SPORTS", Sky SPORT 251
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558701
-#EXTINF:-1,IT: Sky Sport 252
+
+#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="SPORTS", Sky SPORT 252
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558702
-#EXTINF:-1,IT: Sky Sport 253
+
+#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="SPORTS", Sky SPORT 253
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558705
-#EXTINF:-1,IT: Sky Sport 254
+
+#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="SPORTS", Sky SPORT 254
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558707
-#EXTINF:-1,IT: Sky Sport Calcio
+
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co/qkrBGMd/skycalcio.png" group-title="SPORTS", Sky SPORT CALCIO
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558718
-#EXTINF:-1,IT: Sky Sport MotoGP
+
+#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.ibb.co/TBWFWwZ/skymtgp.png" group-title="SPORTS", Sky SPORT MOTOGP
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558726
-#EXTINF:-1,IT: Sky Sport Uno
+
+#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.ibb.co/hFrqB1J/skysportuno.png" group-title="SPORTS", Sky SPORT UNO 
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558732
 
 #EXTINF:-1,BR: SporTV SD
