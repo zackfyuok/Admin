@@ -811,23 +811,20 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 EURO24
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Sport",PT: Sport TV 1
-http://s1.shortdns.xyz:80/XTDR4JMSPQ/vo14tlN18X/49069
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="Sport",TSN 1
+http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Sport",PT: Sport TV 2
-http://s1.shortdns.xyz:80/XTDR4JMSPQ/vo14tlN18X/49070
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="Sport",TSN 2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Sport",PT: Sport TV 3
-http://s1.shortdns.xyz:80/XTDR4JMSPQ/vo14tlN18X/49071
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="Sport",TSN 3 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Sport",PT: Sport TV 4
-http://s1.shortdns.xyz:80/XTDR4JMSPQ/vo14tlN18X/49072
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="Sport",TSN 4
+http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
 
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Sport",PT: Sport TV 5
-http://s1.shortdns.xyz:80/XTDR4JMSPQ/vo14tlN18X/49073
-
-#EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Sport",PT: Sport TV 6
-http://s1.shortdns.xyz:80/XTDR4JMSPQ/vo14tlN18X/49074
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="Sport",TSN 5
+http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
 #EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="Sport", Sky SPORT 251
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558701
