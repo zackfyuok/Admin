@@ -35,7 +35,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -67,7 +67,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/250x125/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png", MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
