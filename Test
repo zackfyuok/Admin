@@ -73,10 +73,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/250x125/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png", MOJI 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/3BFBAFYjwFhD_-JngnIUYfZOlng=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598187/1b2c68.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="",Bank Sumsel Vs Stin BIn - juara 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721565982~acl=/live/17252/*~id=69578335~hmac=083b40555acd6b0202651809a1e55561cc211df90f6a1225bbca4d57cbcadfa1
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721580110~acl=/live/17252/*~id=69578335~hmac=bc84989ce11e86352aed1760b9159ec6b6676e1ed75158c2efcdc4a78eda33c8
 
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="NASIONAL", TRANS TV
