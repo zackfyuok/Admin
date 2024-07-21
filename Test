@@ -33,11 +33,15 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
+#EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 1
+#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721476309~acl=/drm/dash/*~id=69578335~hmac=fdff9c107156f81bc2edf8284143c57aee89faa89a0e312f4bfb0bf7c204c3fc
+https://apisportvb90xltcbk-secure.nsnd.live/G1Krqdp0B7VWe_6IBLEQGw/Fv2lucGIbhPi2caWYvF5Lg/1721572900110/live/sd-6MsGPztcfCpPgaG22f/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 2
+#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://apisportvb90xltcbk-secure.nsnd.live/kz-DRVMM9daerc2laf9DMA/Fv2lucGIbhPi2caWYvF5Lg/1721572592093/live/sd-6MsFu4j863nNzBoYfd/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png", SCTV
