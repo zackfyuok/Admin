@@ -36,10 +36,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 
 #EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721650541~acl=/drm/dash/*~id=69578335~hmac=0171f9fedf5948a7eec01f09274bc316a79dc533889b2247f5a2685975e33acc
+https://179939170.cdnfree.pro/live/hplushd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,9 +71,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/250x125/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png", MOJI 
+#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721580110~acl=/live/17252/*~id=69578335~hmac=bc84989ce11e86352aed1760b9159ec6b6676e1ed75158c2efcdc4a78eda33c8
-
+https://apisportvb90xltcbk-secure.nsnd.live/DU8DTLLb0eeWxq2vpxwpLA/Fv2lucGIbhPi2caWYvF5Lg/1721673366543/live/sd-6MsFu4kcjG27FsUc6f/playlist.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
