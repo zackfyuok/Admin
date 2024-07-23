@@ -36,9 +36,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 
 #EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 1
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://179939170.cdnfree.pro/live/hplushd2/chunklist.m3u8
+http://filex.tv:8080/paramjeetsingh/002818/302264 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
