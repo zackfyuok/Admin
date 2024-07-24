@@ -43,22 +43,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721823357~acl=/drm/dash/*~id=69578335~hmac=eb0c70b842cc502eb3c40a45c882d8a722656fb6473c34f2aa6a4b73f8c4c56c
 
 
-#EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b56244827da3dbe89d68e5ecd15c11a:8ccd2be637ab9640c66118cdca064dee
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17601_stream.mpd?hdnts=exp=1721823269~acl=/drm/dash/*~id=144291504~hmac=7fdb7d3567dfa02d62ffe07766b0bb7b26c6738d83812fe6afba29a2ca40c217
-
-
-#EXTINF:-1 group-title="NASIONAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721823246~acl=/drm/dash/*~id=37773602~hmac=6670a0ba1d2e2c681ee53cc437158602d7ae399b546e4e37efd3d446608a9af8
-
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
@@ -135,7 +119,23 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/mani
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="LIVE EVENT" , CH 2
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
-       
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdnts=exp=1721847265~acl=/drm/dash/*~id=164396008~hmac=1b0b3d1fff8e80711daf704d851680c347d1b062b81708b307ed1b14efc7c417
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6645df7a0df55d9e8cdba1546ff20f2b:a32d96ec6e2ebbfb2135ec50613f8428
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
+
+
+
              =========KIDS==========
 #EXTINF:-1 tvg-id="Anime Station TV" tvg-name="Anime Station TV" tvg-logo="https://i.imgur.com/f1VdQ08.png" group-title="kids",Anime Station TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
