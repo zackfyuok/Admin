@@ -62,9 +62,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NASIONAL",MOJI 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdnts=exp=1721407582~acl=/drm/dash/*~id=32825185~hmac=16c7b6493574f0193735bd374c925433e8587a4b983dd198e2df91571feb5fbb
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreamingtv.my.id/api/ck/8dbb275f903119e2ce2d44a52de1bb2f:a9926e960c2aa6a639bb3748d67c10aa,5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/480p/17599_stream.mpd?hdnts=exp=1721838216~acl=/drm/dash/480p/*~id=164396008~hmac=42351c8df8dbf10403e6cd98b12dac724d083a40c361d0da3faaa11adefd3638
 
 #EXTINF:-1 tvg-name="NET TV" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="NASIONAL",NET TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
