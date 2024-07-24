@@ -107,10 +107,14 @@ https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+                        ========LIVE EVENT======
 
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="LIVE EVENT" , CH 1
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
 
-
-              
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="LIVE EVENT" , CH 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+       
              =========KIDS==========
 #EXTINF:-1 tvg-id="Anime Station TV" tvg-name="Anime Station TV" tvg-logo="https://i.imgur.com/f1VdQ08.png" group-title="kids",Anime Station TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
