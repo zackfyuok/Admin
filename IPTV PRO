@@ -716,6 +716,12 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="🔴PREMIUM SPORT", ASTRO ARENA
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/306392
+
+
+
+
 
               =========OLIMPIADE PARIS 2024======
 
@@ -726,38 +732,47 @@ http://defaultgen.com:3050/live/mbrodie4.mb@gmail.com/mhtvGxWwhi/558758.ts
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
 
 #EXTINF:-1 group-title="🔴OLIMPIADE PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 3
-
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082112
 
 #EXTINF:-1 group-title="🔴OLIMPIADE PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 4
-
-
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082115
 
 #EXTINF:-1 group-title="🔴OLIMPIADE PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 5
-
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082118
 
 #EXTINF:-1 group-title="🔴OLIMPIADE PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 6
-
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082121
 
 #EXTINF:-1 group-title="🔴OLIMPIADE PARIS 2024" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 7
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/1082124
 
 
+                 =======TRUEVISION=====
 
 
+#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191753
 
+#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191752
 
+#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191751
 
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="🔴TRUEVISION",True Premiere 1
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191778
 
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="🔴TRUEVISION",True Premiere 2
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191777
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="🔴TRUEVISION",beIN 1 (THAI)
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191739
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="🔴TRUEVISION",beIN 2 (THAI)
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191738
 
-
-
-
-
-
-
-
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="🔴TRUEVISION",TH:True Premiere Football
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
 
 
 
