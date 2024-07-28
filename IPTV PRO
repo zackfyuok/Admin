@@ -66,9 +66,7 @@ http://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://bit.ly/3sBQgmR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="🔴NASIONAL", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji00.m3u8
-https://s.id/mojiHD_shareext-xs
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBTNYp5oEO-848I8lDPE46B8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
