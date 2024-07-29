@@ -1931,7 +1931,12 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/280194
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/IGUbRlV.png" group-title="🔴U19",AFF U19 CHAMPHIONSHIP 
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://i.imgur.com/IGUbRlV.png" group-title="🔴U19",00.Thailand vs Indonesia (FINAL)- ASEAN U19 Boys Championship 2024 (Live Only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722268408~acl=/drm/dash/*~id=154015579~hmac=f4d0c0f4d9abedff6cabb04851cfcc4b8ab2d1be48a6df0ef1efc267c04016a1
 
       
                ===========DANGDUT========
