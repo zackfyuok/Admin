@@ -544,10 +544,8 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
 
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="degup.my" tvg-logo="https://i.pinimg.com/236x/33/3c/b2/333cb274381f15b1a15c1e3ebcef3d10.jpg",DEGUP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k8m80F+fdUAmtbXhf05kRg", "kid":"wu+W/gO1LCenuaJev8laAA" } ], "type":"temporary" }
-http://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=t4XfRKPznwcm5yNu6SjobTkFtDcNdeX8iE0ZZVOt4YHyMTmOyYd2yZqM2f3Xvv4oK7GxTLJw62CpvOC3N0nH%2BfHVhCxNPrvfs9izTCGoHW%2BJg1eILxm6%2FJ%2FSac6YBGkD9qhPOkH2roqD60i%2FzvYTpYkFTbj4rCw14DRUTelHCiM%3D%3A20220510173536%3AUTC%2C10001001314027%2C180.75.234.64%2C20220510173536%2Curn:Huawei:liveTV:XTV55631601%2C10001001314027%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104130084%2C0%2C10000103506212%2C6917d93a-9d86-02cb-65a4-5d72dc816888%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=28&online=1652204138&mount=1000002&targetdev=1785&ocs=2_1.9.62.186_80&hms_devid=1796,1785&prioritypopid=28&mag_hms=1785,1745,1790,1787&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfJGK7XazFDJkVwKULVVc7kGgppg0kt-PZS0f3__iWzk9PBGiA02OygboGoHkzjxABWHj0ItUYVeXbJknIc4ziHLvmN3fr9vQINGrHSZNRl2x0jB4vfsntND8m2_rNe8jo6sb4MeuWiOYQsgZcxzfoc-X3N8Zd8AIj5wpWZAAAA
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="🔴PREMIUM MOVIE",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="bioskopindonesia.id" tvg-logo="https://i.pinimg.com/236x/b4/27/c2/b427c209fd14f9b4730190c7fe22c57f.jpg",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -558,6 +556,44 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd 
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="🔴PREMIUM MOVIE",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🔴PREMIUM MOVIE",Sony Movies
+http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/28823
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="🔴PREMIUM MOVIE" tvg-id="" tvg-name="", Action Movies 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="🔴PREMIUM MOVIE" tvg-id="" tvg-name="", Action Movies 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="🔴PREMIUM MOVIE",Moviesphere Free
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+
+#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="🔴PREMIUM MOVIE",The Asylum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🔴PREMIUM MOVIE" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+
+#EXTINF:-1 channel-id="MovieSpere2" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="140" group-title="🔴PREMIUM MOVIE" , MovieSphere by Lionsgate
+https://jmp2.uk/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
+
+#EXTINF:-1 group-title="🔴PREMIUM MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🔴PREMIUM MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",Watch Mojo TV
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
 
                   ==========PREMIUM SPORT========
 
@@ -1926,18 +1962,7 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/279033
 http://premiumiptvmk.com:8080/F19236/516c41c7/280194
 
 
-                 ==========U19=======
-
-#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/IGUbRlV.png" group-title="🔴U19",AFF U19 CHAMPHIONSHIP 
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://i.imgur.com/IGUbRlV.png" group-title="🔴U19",00.Thailand vs Indonesia (FINAL)- ASEAN U19 Boys Championship 2024 (Live Only)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722268408~acl=/drm/dash/*~id=154015579~hmac=f4d0c0f4d9abedff6cabb04851cfcc4b8ab2d1be48a6df0ef1efc267c04016a1
-
+                
       
                ===========DANGDUT========
 
