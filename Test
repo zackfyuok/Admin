@@ -77,7 +77,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/250x125/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png", MOJI 
-http://filex.tv:8080/paramjeetsingh/002818/302279
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?hdnts=exp=1722601892~acl=/drm/dash/*~id=164396008~hmac=b2c837a0d9ddcb013e461659c7559a728e186c51ceb9596ff4d5edd6536b3750
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
