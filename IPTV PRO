@@ -986,6 +986,37 @@ http://poyraz67.com:8080/TTvbrK98Db/3se14gS4p4/536665
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", LIVE CH16
 http://poyraz67.com:8080/TTvbrK98Db/3se14gS4p4/536666
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", rtm ch 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", rtm ch 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", rtm ch 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", rtm ch 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", rtm ch 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="🔴OLIMPIADE PARIS 2024", usa (west) ch 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+
+
+
+
+
               =========TRANSVISION======
 
 
