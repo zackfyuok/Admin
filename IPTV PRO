@@ -823,8 +823,23 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="🔴PREMIUM SPORT",Canal+ sport 1
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2775
 
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 2"  group-title="🔴PREMIUM SPORT",Canal+ Sport 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28146
 
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 3"  group-title="🔴PREMIUM SPORT",Canal+ Sport 3
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28090
+
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ MOTOGP"  group-title="🔴PREMIUM SPORT", Canal+ MOTOGP
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2793
+
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="🔴PREMIUM SPORT",Canal+ Sport 360 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport DIRECT"  group-title="🔴PREMIUM SPORT",Canal+ Sport DIRECT
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
 
 
 
@@ -918,22 +933,53 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 
 
 
+                         =========BEIN|AR=======
 
 
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="🔴BEIN|AR",beIN 1
+http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618281
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://media.tv4.live/beINSports2.qa.png" group-title="🔴BEIN|AR",beIN 2
+http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618280
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://media.tv4.live/beINSports3.qa.png" group-title="🔴BEIN|AR",beIN 3
+http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618279
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://media.tv4.live/beINSports4.qa.png" group-title="🔴BEIN|AR",beIN 4
+http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618278
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="🔴BEIN|AR",beIN 5
+http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618277
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="🔴BEIN|AR",beIN 6
+http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618276
 
 
 
+                     ========BEIN|FR======
 
 
 
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
 
 
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
 
 
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
 
 
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
 
+
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
+
+
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
+
+
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="🔴BEIN|FR",beIN 1 FRANCE
 
 
               =========OLIMPIADE PARIS 2024======
