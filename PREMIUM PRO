@@ -2304,18 +2304,30 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 
-               =========FOX SPORT======
+                 ==========ESPN==========
 
-#EXTINF:-1 xui-id="16590" tvg-id="" tvg-name="FS1" tvg-logo="https://i.imgur.com/xcgfJhC.png" group-title="🔴FOX SPORTS", Fox Sports 1
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3130
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 1
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKfq2Lk5K1Ie29w_NWh-G5IgAXRTKqPF4bQYzBANOVgpDN/ts
 
-#EXTINF:-1 xui-id="16591" tvg-id="" tvg-name="FS 2" tvg-logo="https://i.imgur.com/r1wveoe.png" group-title="🔴FOX SPORTS", Fox Sports 2
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3129
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 2
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKfpEK1hGgtqHFtlWSNNuvFDcFr9rxaQW7RdNvKBiUAZgE/ts
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 3
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKfjBRoNb6nnL_GCoc4y3D_UQpsb-j2-URIDRVij-ODAoO/ts
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 4
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKfnzpX3_7nZU_c5pN0BXn3CjV2qxyLoEaRM_6aCLODCBl/ts
 
-                
-      
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 5
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKfl8xqZaqLLfZB1suBi37-WQeLS2T6yTTXivZa_QBtonh/ts
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 6
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKfvkpEzMnU1muteVn0DaQh0MdFrc3hpRPonquCt4NUXfx/ts
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="🔴ESPN", ESPN 7
+http://daleplay.club:80/play/Q2tUIpw3y3GD4mDnmhMKft3ZsXMXYZEvTh6NClxpTOF7bd3iwikrKiZEbidoIdUG/ts
+
+     
                ===========DANGDUT========
 
 
