@@ -147,7 +147,14 @@ http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
            
-              ============DISCOVERY CHANNEL=====
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36eed60064f380997fc93263d226a074:967adafdf64e6cc3b4662920cfe0abab
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727279411~acl=/drm/dash/17904*~id=69852964~hmac=a9cc8e2bc325c761964eadce0d0ccbf574df154669c68920e9b4407bea5d137e
+
+
+                ============DISCOVERY CHANNEL=====
 
 
 
