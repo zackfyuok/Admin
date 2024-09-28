@@ -137,9 +137,13 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
                         ==========BRI LIGA 1=====
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/F_cRe5KV6i5_b8MeMMN3yg/Fv2lucGIbhPi2caWYvF5Lg/1727447608222/live/sd-6MsDBFUQVn7qPhpwPZ/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17623&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=17623&type=dash
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 2
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
