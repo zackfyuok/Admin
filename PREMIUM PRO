@@ -797,12 +797,45 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd|refere
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="Sportdigital Fußball.de" tvg-name="" tvg-logo="https://i.ibb.co.com/ZM5C37H/sportdigital.png" group-title="🔴PREMIUM SPORT", SPORTDIGITAL FUSSBALL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/18114704/scooore_Ghana_RGB.png",Scooore Sport Digital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bwpxsoc1pdhwy/index.m3u8
+
+
+               ========TRUE VISION=====
+
+
+#EXTINF:-1 group-title="🔴TRUE VISION" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="🔴TRUE VISION" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="🔴TRUE VISION" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="🔴TRUE VISION" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="🔴TRUE VISION" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="🔴TRUE VISION" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+
+
 
 
                  =======DAZN=======
@@ -1049,102 +1082,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-                  ===========LIGA INGGRIS========
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", CH 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;) 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", CH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-
-#EXTINF:-1 group-title="🔴PREMIER LEAGUE" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 group-title="🔴PREMIER LEAGUE" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", SV 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", SV 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", SV 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", SV 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="🔴PREMIER LEAGUE", SV 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
-
-
-          ==========BUNDES LIGA======
-
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun1.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun2.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun3.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun4.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 9
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun5.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 10
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun6.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 11
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun7.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="🔴BUNDES LIGA", CH 12
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun8.m3u8
 
 
 
@@ -1201,54 +1139,7 @@ https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-                    ========V SPORT======
 
-
-#EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3dVd_yh6vBQjik9ST-DeDPwsjbDBO9YiucwLVHKApvWKvVeQiAJaaiM&s=10" group-title="🔴V SPORTS",  V Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
-
-#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_NrpDmj5CFqdqaW3LLw55kIScSWjxB0u7pq9BUV_RcPMIZLCVdDBhcJP&s=10" group-title="🔴V SPORTS",  V Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
-
-#EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzGREDYOS7zUz7V6WoF7bR8BK3hQ3iYWdIA2SJp5TVvK4xfaNIoRRlzI&s=10" group-title="🔴V SPORTS",  V Sport 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
-
-#EXTINF:-1 tvg-id="V Sport Extra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2EmhavzLFNZZMe319FuhLOFqC8ukEbE8CXvWlK0HF6Zr8FBgPtkOHhI&s=10" group-title="🔴V SPORTS",  V Sport EXTRA 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
-
-#EXTINF:-1 tvg-id="V Sport Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7uQso0qgYgmzTHxlGxW7j3MuCobC5Pa_keEupTpH2raNruDmRfSWzzc&s=10" group-title="🔴V SPORTS",  V Sport FOOTBALL 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
-
-#EXTINF:-1 tvg-id="V Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpKt6qr8HwfKRn8rdl4IASQh4u8DkhShyBme2speqaO4Wr6_TYPzj9g&s=10" group-title="🔴V SPORTS",  V Sport PREMIUM 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
                       =========SSC=======
 
