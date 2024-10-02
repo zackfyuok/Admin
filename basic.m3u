@@ -192,18 +192,20 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 
           +++++ LIVE+++
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jX2v8L9P_q0/hqdefault.jpg",KOVO CUP 2024 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727619763/ei/Uw75ZpuJCKqe3LUPzpah2QU/ip/140.213.187.54/id/jX2v8L9P_q0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250688/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbfcfHkWcqY3jK2xEgoZkMwJExnjh7Fim8fWEKOdLIxglspwUTuIxzLlMRc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI9ABk9JWHePsfFplIm6BA7Z0uuPLeTK004Zzqc-GtZvAiBL7sAkHNfeWeXeCRoCq9M2Y6l2PBiLB9KNNNRC1_kz_Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g48oJv1x7KA/hqdefault.jpg",PHILIPINES U20 VS BRUNEI U20
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727620042/ei/ag_5Zp2EM7S9juMP5YmXsQk/ip/140.213.187.54/id/g48oJv1x7KA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxXCiCInuRckCH8PAo3hM0RE4oO32YdcJ6xLId8EJIzveu3vUmxnvAVxIYr4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOIP0P2tMHcfRcgmJJhLJ--nSrA-A7AQ-pTHh7eTrAEICIB2ud3y0ogV2ZRwLZT7wNiQyDxlcm9VV0rfF2yBqmKYq/file/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="LIVE EVENT", live
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N293bpBOYgA/hqdefault.jpg" group-title="LIVE EVENT" KOVO CUP 2024| ARANMARE VS IBK ATOS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727873372/ei/_Oz8ZsK8B8SV4t4P8Ie2QQ/ip/103.160.205.150/id/N293bpBOYgA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241484/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxfNHAevYBkiuEWy_yEO5yY_Okz5G0pwVA9y8JgsN1yAW4MOdLjMq51AF/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL1EtR5-ImSKzQh0cjphA1aKedFKWmk685M0Oe6allNeAiEAxjwEfA2PXQ4PpMFqfRJrQBlTYeKwZwNlp9nGvzC31Fs%3D/file/index.m3u8
+
+
+
+
 
 
 
