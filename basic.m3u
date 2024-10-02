@@ -200,10 +200,8 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N293bpBOYgA/hqdefault.jpg" group-title="LIVE EVENT", KOVO CUP 2024| ARANMARE VS IBK Altos
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727873372/ei/_Oz8ZsK8B8SV4t4P8Ie2QQ/ip/103.160.205.150/id/N293bpBOYgA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241484/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxfNHAevYBkiuEWy_yEO5yY_Okz5G0pwVA9y8JgsN1yAW4MOdLjMq51AF/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL1EtR5-ImSKzQh0cjphA1aKedFKWmk685M0Oe6allNeAiEAxjwEfA2PXQ4PpMFqfRJrQBlTYeKwZwNlp9nGvzC31Fs%3D/file/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0lZ06LNGUzs/hqdefault.jpg" group-title="LIVE EVENT", KOVO CUP 2024 - RED spark vs PINK spiders
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727884502/ei/dhj9ZvTBIcbA4-EPxseuyQ4/ip/103.160.205.150/id/0lZ06LNGUzs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxSMnwd5AMOPEtzau2ERT_TKSH5QyxY3nLV91_rmR1PiOM-UjX7UBwNpG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNpsBitfSFIuLikrmcqdxnv-SKCI_EYogl8eGzOz4sk8CIGi1iJuyhQb3adKcCyWaSP3cDJW5b4k9EuHEbiigipUt/file/index.m3u8
 
 
 
