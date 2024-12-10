@@ -766,22 +766,24 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="🔴PREMIUM SPORT" , PLAY SPORTS 1 
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-051/stream.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="🔴PREMIUM SPORT" , PLAY SPORTS 2 
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-052/stream.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="🔴PREMIUM SPORT" , PLAY SPORTS 3
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-053/stream.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-053/stream.mpd
+
+
 
                 ========TRUEVISION=======
 
