@@ -179,12 +179,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 http://xtvplayer.top:8080/live/sanushop/12345678/350972.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 2
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1198
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-https://mantul.biz.id:443/live/aruba/aruba/5286.ts
+http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -192,6 +187,8 @@ https://mantul.biz.id:443/live/aruba/aruba/5286.ts
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🔴BRI LIGA 1",LIVE 4
+http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
 
                   ========= VIDIO========       
 
