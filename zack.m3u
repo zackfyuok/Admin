@@ -139,6 +139,19 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
+
+                 ========TIMNAS U20=====
+
+#EXTINF:-1 group-title="TIMNAS U20" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/L-kC9n9riVfP0DuU6Iy2PRQknMo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023259/db8712.jpg", Indonesia vs Jordan 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00e3ac2cffafddbc2678f420d577d8d6:791d624d8fb44672d712093288e5ba8f
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/18288_stream.mpd?hdnts=exp=1737734716~acl=/drm/dash/18288*~id=164396008~hmac=ac0aa99c751ef891c68cedefc3b3a97b9d8c18648df00df2aed14e1468a550de
+
+
+
+
+
                     ===========RELIGI=============
 
 
