@@ -1280,7 +1280,7 @@ https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
-#EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="CHANNEL | SPORTS", HUB SPORTS 1 
+#EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="🔴PREMIUM SPORT", HUB SPORTS 1 
 http://extraott.com/live/6945574629/7169628753/36305.m3u8
 
 #EXTINF:-1 xui-id="14876" tvg-id="" tvg-name="SG: HUB SPORTS 2" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rbs4Pz-QULFRChkHaKUWCulXfGooJGrno3tVu-klqR1s.png" group-title="🔴PREMIUM  SPORT", HUB SPORTS 2 
@@ -1528,17 +1528,17 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport
                          =======BEIN=======
 
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="🔴BEIN|AR",BEIN 1
+#EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://ktv.im:8080/kk56712/kk12345/49522
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="🔴BEIN|AR",BEIN 2
+#EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
 http://ktv.im:8080/kk56712/kk12345/49523
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="🔴BEIN|AR",BEIN 3 
+#EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
 http://ktv.im:8080/kk56712/kk12345/49524
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="🔴BEIN|AR",BEIN 4 
+#EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
 http://ktv.im:8080/kk56712/kk12345/49525
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="🔴BEIN|AR",BEIN 5 
+#EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
 http://ktv.im:8080/kk56712/kk12345/49526
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="🔴BEIN|AR",BEIN 6 
+#EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
 http://ktv.im:8080/kk56712/kk12345/49527
 #EXTINF:-1 group-title="🔴BEIN|AR" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 
 http://ktv.im:8080/kk56712/kk12345/49528
