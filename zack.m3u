@@ -1163,58 +1163,79 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
 
-                =============TRUEVISION========
-
-
-#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
-https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
-https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
-https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
-https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
+                =============MOVIE 24/7========
 
 
 
-#EXTINF:-1 tvg-id="TRUE X-Zyte" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="🔴TRUEVISION", True X-Zyte 
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
-
-#EXTINF:-1 tvg-id="TrueSpark Play" tvg-name="True Spark Play" tvg-logo="http://tvsmagazine.com/images/channels/sm_TSPPL.jpg" group-title="🔴TRUEVISION", True Spark Play
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
-
-#EXTINF:-1 tvg-id="TrueExploreWild" tvg-name="True Explore Wild HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPW.jpg" group-title="🔴TRUEVISION", True Explore Wild
-https://live-la1.aws-stream.com:9090/v3/w64cS_KuShPqjEYWOUuL1g/1729913027/57d68788c2be4a2131db2394794932d5/w5ftDlB0p15a1XgOq7oLpQ/1729934607/live/dx-origin/th-expwild_480/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TrueExploreLife" tvg-name="True Explore Life HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPL.jpg" group-title="🔴TRUEVISION", True Explore Life 
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
-
-#EXTINF:-1 tvg-id="TrueExploreSci" tvg-name="True Explore Sci HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPSC.jpg" group-title="🔴TRUEVISION", True Explore Sci 
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
-
-#EXTINF:-1 tvg-id="True Thai Film" tvg-name="True Thai Film" tvg-logo="http://tvsmagazine.com/images/channels/sm_094.jpg" group-title="🔴TRUEVISION", True Thai Film
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
-
-#EXTINF:-1 tvg-id="TrueFilm1" tvg-name="TrueFilm1" tvg-logo="http://tvsmagazine.com/images/channels/sm_176.jpg" group-title="🔴TRUEVISION", True Film 1
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
-
-#EXTINF:-1 tvg-id="TrueFilm2" tvg-name="TrueFilm2" tvg-logo="http://tvsmagazine.com/images/channels/sm_221.jpg" group-title="🔴TRUEVISION", True Film 2
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
-
-#EXTINF:-1 tvg-id="TrueFilmAsia" tvg-name="TrueFilmAsia" tvg-logo="http://tvsmagazine.com/images/channels/sm_006.jpg" group-title="🔴TRUEVISION", True Film Asia
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
-
-#EXTINF:-1 tvg-id="TrueAsianMore" tvg-name="TrueAsianMore" tvg-logo="http://tvsmagazine.com/images/channels/sm_158.jpg" group-title="🔴TRUEVISION", True Asian More
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
-
-#EXTINF:-1 tvg-id="TrueSeries" tvg-name="TrueSeriesHD" tvg-logo="http://tvsmagazine.com/images/channels/sm_002.jpg" group-title="🔴TRUEVISION", True Series
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",bruce willis
+http://vocotv.pro:8080//IPTV123/IPTV123/73278
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",christian bale
+http://vocotv.pro:8080//IPTV123/IPTV123/73271
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",denzel washington
+http://vocotv.pro:8080//IPTV123/IPTV123/73265
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",hugh jackman
+http://vocotv.pro:8080//IPTV123/IPTV123/73255
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",jackie chan 1
+http://vocotv.pro:8080//IPTV123/IPTV123/73252
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",jackie chan 2
+http://vocotv.pro:8080//IPTV123/IPTV123/73250
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",jackie chan 3
+http://vocotv.pro:8080//IPTV123/IPTV123/73249
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",jackie chan 4
+http://vocotv.pro:8080//IPTV123/IPTV123/73248
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",classic kungfu 1
+http://vocotv.pro:8080//IPTV123/IPTV123/73245
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",classic kungfu 2
+http://vocotv.pro:8080//IPTV123/IPTV123/73244
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",classic kungfu 3
+http://vocotv.pro:8080//IPTV123/IPTV123/73243
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",classic kungfu 4
+http://vocotv.pro:8080//IPTV123/IPTV123/73242
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7", bond 007
+http://vocotv.pro:8080//IPTV123/IPTV123/73239
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",van damme
+http://vocotv.pro:8080//IPTV123/IPTV123/73236
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",jeet lee
+http://vocotv.pro:8080//IPTV123/IPTV123/73231
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",joaquin phoenix
+http://vocotv.pro:8080//IPTV123/IPTV123/73230
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",LOTR
+http://vocotv.pro:8080//IPTV123/IPTV123/73215
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",margot robbie
+http://vocotv.pro:8080//IPTV123/IPTV123/73211
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",mark ruffalo
+http://vocotv.pro:8080//IPTV123/IPTV123/73210
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",movies 2021
+http://vocotv.pro:8080//IPTV123/IPTV123/73192
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",nicolas cage
+http://vocotv.pro:8080//IPTV123/IPTV123/73191
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",robert downey jr
+http://vocotv.pro:8080//IPTV123/IPTV123/73171
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",rocky balboa
+http://vocotv.pro:8080//IPTV123/IPTV123/73168
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",superstar action
+http://vocotv.pro:8080//IPTV123/IPTV123/73157
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",superstar adventure
+http://vocotv.pro:8080//IPTV123/IPTV123/73156
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",alien
+http://vocotv.pro:8080//IPTV123/IPTV123/73154
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",horror 1
+http://vocotv.pro:8080//IPTV123/IPTV123/73140
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",horror 2
+http://vocotv.pro:8080//IPTV123/IPTV123/73139
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",action 1
+http://vocotv.pro:8080//IPTV123/IPTV123/73138
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",action 2
+http://vocotv.pro:8080//IPTV123/IPTV123/73136
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",tom cruise
+http://vocotv.pro:8080//IPTV123/IPTV123/73113
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",tom hardy
+http://vocotv.pro:8080//IPTV123/IPTV123/73111
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="🔴MOVIE 24/7",will smith
+http://vocotv.pro:8080//IPTV123/IPTV123/73108
 
 
 
